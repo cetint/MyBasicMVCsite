@@ -1,0 +1,7 @@
+c:\users\dell\documents\visual studio 2010\Projects\MyFirstMVC\MyFirstMVC\obj\Debug\ResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2010\Projects\MyFirstMVC\MyFirstMVC\bin\MyFirstMVC.dll
+c:\users\dell\documents\visual studio 2010\Projects\MyFirstMVC\MyFirstMVC\bin\MyFirstMVC.pdb
+c:\users\dell\documents\visual studio 2010\Projects\MyFirstMVC\MyFirstMVC\bin\EntityFramework.dll
+c:\users\dell\documents\visual studio 2010\Projects\MyFirstMVC\MyFirstMVC\bin\EntityFramework.xml
+c:\users\dell\documents\visual studio 2010\Projects\MyFirstMVC\MyFirstMVC\obj\Debug\MyFirstMVC.dll
+c:\users\dell\documents\visual studio 2010\Projects\MyFirstMVC\MyFirstMVC\obj\Debug\MyFirstMVC.pdb
